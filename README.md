@@ -1,8 +1,13 @@
 Favicon: The favicon is a tiny icon used to represent a website in the address bar or tab of a browser.
+
 Table:-Tables make it simpler to convey organized information by arranging and displaying data in rows and columns.
+
 Form:-Users can submit data to a web server using the form element to construct a container for different input components like text fields, radio buttons, checkboxes, etc.
+
 Images: Images are displayed on a web page using the image tag. It needs the src attribute, which identifies the location of the image file.
+
 Hyperlink: Create hyperlinks to other web pages or resources by using the anchor tag. It is frequently used to navigate between pages on a website or to other websites.
+
 Button: The button element depicts a clickable button that, when activated, can be used to start processes or submit forms.
 Audio: The audio tag enables you to include audio material in web pages, such as music or sound effects. Various audio formats are supported.
 Video: video content can be included on a website by using the video element. It offers controls for playback and supports a variety of video formats.
