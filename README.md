@@ -1,6 +1,6 @@
-Favicon: The favicon is a tiny icon used to represent a website in the address bar or tab of a browser.
+1. Favicon: The favicon is a tiny icon used to represent a website in the address bar or tab of a browser.
 
-Table:-Tables make it simpler to convey organized information by arranging and displaying data in rows and columns.
+2. Table:-Tables make it simpler to convey organized information by arranging and displaying data in rows and columns.
 
 Form:-Users can submit data to a web server using the form element to construct a container for different input components like text fields, radio buttons, checkboxes, etc.
 
